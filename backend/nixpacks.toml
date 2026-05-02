@@ -1,0 +1,4 @@
+[phases.install]
+cmds = [
+  "pip install -r requirements.txt --extra-index-url https://pypi.emergentmethods.ai"
+]
